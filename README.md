@@ -46,7 +46,7 @@ imi-samples
 
 ## History
 
-* 2014-11-11 横浜市金沢区のサンプルデータを公開
+* 2014-11-11 [横浜市金沢区のサンプルデータ](https://github.com/indigo-lab/imi-samples/blob/master/14108kanazawa2014-11-11.ttl)を公開
 
 
 
