@@ -20,7 +20,15 @@ imi-samples
 
 ## License
 
-本サンプルファイル群は、以下のコンテンツを加工して作成しています。
+![クリエイティブ・コモンズ 表示 4.0 国際 ライセンス](https://i.creativecommons.org/l/by/4.0/88x31.png)
+
+本レポジトリのファイルは特別な記載がない限り、
+[クリエイティブ・コモンズ 表示 4.0 国際 ライセンス](http://creativecommons.org/licenses/by/4.0/) 
+の下に提供されています。
+
+## Notice
+
+本レポジトリのファイルの一部は、以下のコンテンツを加工して作成しています。
 
 ### [国土数値情報](http://nlftp.mlit.go.jp/ksj/index.html)
 二次利用に関するライセンスは [国土情報利用約款](http://nlftp.mlit.go.jp/ksj/other/yakkan.html) に定められています。
