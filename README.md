@@ -44,6 +44,10 @@ imi-samples
 
 * [町丁・字等境界データ](http://e-stat.go.jp/SG2/eStatFlex/help/content/_72.html#002) を加工して作成
 
+## Docs
+
+データやボキャブラリに関する情報は  [Wiki](https://github.com/indigo-lab/imi-samples/wiki) に整理しています
+
 ## History
 
 * 2014-11-11 [横浜市金沢区のサンプルデータ](https://github.com/indigo-lab/imi-samples/blob/master/14108kanazawa2014-11-11.ttl)を公開
