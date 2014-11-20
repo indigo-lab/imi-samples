@@ -3,6 +3,9 @@ imi-samples
 
 共通語彙基盤のボキャブラリによる RDF/Turtle のサンプル集
 
+*  [横浜市金沢区のサンプルデータ](https://github.com/indigo-lab/imi-samples/blob/master/14108kanazawa2014-11-11.ttl)
+    + このデータセットを活用することで、横浜市金沢区「かなざわ育なび.net」のデータのうち、緯度経度座標が関連付けられているアイテムに対して、小学校区や小地域などの境界との包含判定や近傍のバス停の探索などが行えます
+
 ## About
 
 [共通語彙基盤整備事業](http://goikiban.ipa.go.jp/) は、
@@ -51,7 +54,6 @@ imi-samples
 ## History
 
 * 2014-11-11 [横浜市金沢区のサンプルデータ](https://github.com/indigo-lab/imi-samples/blob/master/14108kanazawa2014-11-11.ttl)を公開
-    + このデータセットを活用することで、横浜市金沢区「かなざわ育なび.net」のデータのうち、緯度経度座標が関連付けられているアイテムに対して、小学校区や小地域などの境界との包含判定や近傍のバス停の探索などが行えます
 
 
 
